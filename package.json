@@ -1,0 +1,27 @@
+{
+  "name": "projeto3",
+  "version": "1.0.0",
+  "description": "Criando um site responsivo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicaschnei/Projeto3.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Mônica de Souza Schneider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monicaschnei/Projeto3/issues"
+  },
+  "homepage": "https://github.com/monicaschnei/Projeto3#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
